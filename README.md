@@ -43,6 +43,26 @@ This project answers these questions using data-driven analysis.
 - Profit — profit amount
 - Discount — discount given to customer
 
+- ## 📘 Data Dictionary
+
+The table below explains the key columns used in the analysis:
+
+| Column Name     | Description |
+|-----------------|-------------|
+| Order ID        | Unique identifier for each order |
+| Order Date      | Date when the order was placed |
+| Ship Date       | Date when the order was shipped |
+| Customer ID     | Unique ID for each customer |
+| Segment         | Customer segment (Consumer, Corporate, Home Office) |
+| Region          | Geographic sales region |
+| Category        | Product category (Furniture, Office Supplies, Technology) |
+| Sub-Category    | Product sub-category |
+| Sales           | Revenue generated from the order |
+| Quantity        | Number of units sold |
+| Discount        | Discount applied to the order |
+| Profit          | Profit earned from the order |
+
+
 
 ## 📁 Project Structure
 
