@@ -81,6 +81,14 @@ The Power BI dashboard provides:
 
 📸 Dashboard screenshots are available inside the `powerbi_reports` folder.
 
+### 📊 Power BI Dashboard Preview
+
+![Sales Overview]("D:\Sales_Capstone_Project\powerbi_reports\screenshots\powerbi_reportsscreenshotssales_overview.png.jpg")
+![Profit Analysis]("D:\Sales_Capstone_Project\powerbi_reports\screenshots\powerbi_reportsscreenshotsprofit_analysis.png.jpg")
+![Total sales]("D:\Sales_Capstone_Project\powerbi_reports\screenshots\total sales.jpg")
+![Total proofit]("D:\Sales_Capstone_Project\powerbi_reports\screenshots\Total profit.jpg")
+
+
 ---
 
 ## 🧠 Sample Interview Questions Answered
