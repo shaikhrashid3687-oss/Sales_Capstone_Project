@@ -1,59 +1,65 @@
-# 📊 Sales Analytics Capstone Project
+📊 Sales Analytics Capstone Project
+📌 Project Overview
 
-## 📌 Project Overview
-This is an end-to-end Sales Analytics project created to analyze sales performance, profit trends, and business insights using real-world sales data.
+This is an end-to-end Sales Analytics capstone project created as part of my Data Analytics course.
+The project focuses on analyzing sales performance, profit, and discount impact using SQL, Python, and Power BI.
 
-This project demonstrates my practical skills in data analytics, including data cleaning, analysis, visualization, and documentation.
+🎯 Business Problem
 
----
+The objective of this project is to analyze sales data to understand revenue and profit patterns.
+The analysis helps identify high-performing products, profitable regions, and areas where discounts negatively impact profit.
 
-## 🎯 Objectives
-- Analyze overall sales and profit
-- Identify top-performing regions and product categories
-- Understand discount impact on profit
-- Create interactive dashboards for business insights
+📂 Dataset Description
 
----
+The dataset contains transactional sales data including order details, sales amount, profit, discount, product categories, and regional information.
+This data represents a typical retail sales scenario.
 
-## 🛠 Tools & Technologies
-- Excel – Data cleaning
-- SQL – Data analysis and KPI calculations
-- Python – Exploratory Data Analysis (EDA)
-- Power BI – Data visualization and dashboards
-- GitHub – Project documentation
+📖 Data Dictionary
+Column Name	Description
+Order ID	Unique identifier for each order
+Order Date	Date of transaction
+Ship Date	Date of shipment
+Sales	Revenue generated
+Profit	Profit earned
+Discount	Discount applied
+Category	Product category
+Sub-Category	Product sub-category
+Region	Sales region
+🛠 Tools Used
 
----
+Excel – Initial data understanding
 
-## 📁 Project Structure
-Sales_Capstone_Project/
-├── Data/
-├── powerbi_reports/
-├── presentation/
-├── python_notebook/
-├── sql_queries/
-└── README.md
+SQL – Data querying and KPI calculations
 
----
+Python (Pandas, Matplotlib) – Data cleaning and EDA
 
-## 📘 Data Dictionary
+Power BI – Dashboard creation
 
-| Column Name | Description |
-|------------|-------------|
-| Order Date | Date of the order |
-| Sales | Revenue generated |
-| Profit | Profit earned |
-| Discount | Discount applied |
-| Region | Sales region |
-| Category | Product category |
+GitHub – Project documentation
 
----
+🔍 Analysis Steps
 
-## 📊 Power BI Dashboard
-Power BI dashboards were created to visualize:
-- Sales trends
-- Profit analysis
-- Regional performance
-- Category-wise sales
+Understood and cleaned the dataset
+
+Performed SQL queries to calculate KPIs
+
+Conducted exploratory data analysis using Python
+
+Created interactive dashboards in Power BI
+
+Derived insights and business recommendations
+
+📊 Power BI Dashboard
+
+The Power BI dashboard provides:
+
+Total Sales and Profit KPIs
+
+Sales by Category and Region
+
+Monthly Sales Trends
+
+Discount vs Profit analysis
 
 ### Sales Overview
 !(![sales_overview png](https://github.com/user-attachments/assets/17937fff-8a59-4984-8bea-54f9f0851a39)
@@ -67,19 +73,31 @@ Power BI dashboards were created to visualize:
 !(![sales_overview png](https://github.com/user-attachments/assets/05e09ab9-3cce-4408-8c4a-e50fb35bb044)
 )
 
+📈 Key Insights
+
+Some regions generate high sales but low profit due to heavy discounts
+
+Certain product categories contribute more to overall profit
+
+Monthly sales trends show seasonal patterns
+
+💡 Business Recommendations
+
+Reduce high discounts on low-profit products
+
+Focus on high-margin categories to improve profitability
+
+Use regional insights to optimize sales strategy
 
 (Dashboard screenshots are included in the repository.)
+Sales_Capstone_Project/
+│
+├── Data/
+├── sql_queries/
+├── python_notebook/
+├── powerbi_reports/
+├── presentation/
+└── README.md
 
----
-
-## 📈 Key Insights
-- High discounts reduce overall profitability
-- Technology category generates the highest profit
-- Some regions show high sales but low profit margins
-
----
-
-## 🚀 Conclusion
-This project shows my ability to perform complete data analytics workflows and present insights clearly using dashboards and documentation.
-
-Update README with clean project documentation
+GitHub Repository
+https://github.com/shaikhrashid3687-oss/Sales_Capstone_Project?utm_source=chatgpt.com
