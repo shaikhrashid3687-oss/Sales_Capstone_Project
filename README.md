@@ -99,10 +99,15 @@ The Power BI dashboard provides:
 
 ### 📊 Power BI Dashboard Preview
 
-![Sales Overview]("D:\Sales_Capstone_Project\powerbi_reports\screenshots\powerbi_reportsscreenshotssales_overview.png.jpg")
-![Profit Analysis]("D:\Sales_Capstone_Project\powerbi_reports\screenshots\powerbi_reportsscreenshotsprofit_analysis.png.jpg")
-![Total sales]("D:\Sales_Capstone_Project\powerbi_reports\screenshots\total sales.jpg")
-![Sales Overview]("D:\Sales_Capstone_Project\powerbi_reports\screenshots\powerbi_reportsscreenshotssales_overview.png (2).jpg")
+#### Sales Overview
+![Sales Overview](powerbi_reports/screenshots/sales_overview.png)
+
+#### Profit Analysis
+![Profit Analysis](powerbi_reports/screenshots/profit_analysis.png)
+
+#### Total Sales
+![Total Sales](powerbi_reports/screenshots/total_sales.png)
+
 
 
 
