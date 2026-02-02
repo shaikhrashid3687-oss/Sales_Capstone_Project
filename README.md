@@ -89,7 +89,6 @@ Focus on high-margin categories to improve profitability
 
 Use regional insights to optimize sales strategy
 
-(Dashboard screenshots are included in the repository.)
 Sales_Capstone_Project/
 │
 ├── Data/
