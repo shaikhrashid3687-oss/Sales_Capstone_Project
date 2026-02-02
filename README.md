@@ -55,6 +55,19 @@ Power BI dashboards were created to visualize:
 - Regional performance
 - Category-wise sales
 
+### Sales Overview
+![Sales Overview](![sales_overview png](https://github.com/user-attachments/assets/17937fff-8a59-4984-8bea-54f9f0851a39)
+)
+
+### Profit Analysis
+![Profit Analysis](![profit_analysis png](https://github.com/user-attachments/assets/28bb4cd2-3bda-4591-84ed-8755f61bcf71)
+)
+
+### Total Sales Trend
+![Total Sales Trend](![sales_overview png](https://github.com/user-attachments/assets/05e09ab9-3cce-4408-8c4a-e50fb35bb044)
+)
+
+
 (Dashboard screenshots are included in the repository.)
 
 ---
