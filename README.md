@@ -1,3 +1,10 @@
+## 🛠 How I Built This Project
+1. Cleaned and validated sales data
+2. Wrote SQL queries to calculate KPIs
+3. Performed EDA using Python
+4. Built interactive dashboards in Power BI
+5. Documented insights and business impact
+
 # 📊 Sales Analytics Capstone Project
 
 ## 📌 Project Description
@@ -120,13 +127,13 @@ The Power BI dashboard provides:
 ### 📊 Power BI Dashboard Preview
 
 #### Sales Overview
-![Sales Overview]("D:\Sales_Capstone_Project\powerbi_reports\screenshots\sales_overview.png.jpg")
+![Sales Overview](powerbi_reports/screenshots/sales_overview.png)
 
 #### Profit Analysis
-![Profit Analysis]("D:\Sales_Capstone_Project\powerbi_reports\screenshots\profit_analysis.png.jpg")
+![Profit Analysis](powerbi_reports/screenshots/profit_analysis.png)
 
 #### Total Sales
-![Total Sales]("D:\Sales_Capstone_Project\powerbi_reports\screenshots\total_sales.png.jpg")
+![Total Sales](powerbi_reports/screenshots/total_sales.png)
 
 
 
