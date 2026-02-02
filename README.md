@@ -8,6 +8,15 @@ This project is designed as a **portfolio project** for data analyst roles and i
 
 ---
 
+## 🛠 How This Project Was Built
+
+1. Cleaned raw data in Excel  
+2. Loaded data into SQL  
+3. Ran KPI queries using SQL  
+4. Performed visual EDA in Python  
+5. Built interactive Power BI dashboard
+
+
 ## 🎯 Business Problem
 Businesses often struggle to understand:
 - Which products and categories are most profitable
@@ -27,6 +36,13 @@ This project answers these questions using data-driven analysis.
 - **GitHub** – Version control and project hosting  
 
 ---
+
+## 📌 Dataset Columns
+- Order Date — date of order
+- Sales — revenue amount
+- Profit — profit amount
+- Discount — discount given to customer
+
 
 ## 📁 Project Structure
 
@@ -86,7 +102,8 @@ The Power BI dashboard provides:
 ![Sales Overview]("D:\Sales_Capstone_Project\powerbi_reports\screenshots\powerbi_reportsscreenshotssales_overview.png.jpg")
 ![Profit Analysis]("D:\Sales_Capstone_Project\powerbi_reports\screenshots\powerbi_reportsscreenshotsprofit_analysis.png.jpg")
 ![Total sales]("D:\Sales_Capstone_Project\powerbi_reports\screenshots\total sales.jpg")
-![Total proofit]("D:\Sales_Capstone_Project\powerbi_reports\screenshots\Total profit.jpg")
+![Sales Overview]("D:\Sales_Capstone_Project\powerbi_reports\screenshots\powerbi_reportsscreenshotssales_overview.png (2).jpg")
+
 
 
 ---
