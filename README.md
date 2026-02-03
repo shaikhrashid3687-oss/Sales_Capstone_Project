@@ -33,6 +33,15 @@ Excel – Initial data understanding
 
 SQL – Data querying and KPI calculations
 
+## SQL Analysis Output
+![Best-Selling-Products](sql_queries/screenshots/Best_Selling_Products.png)
+![highest-profit-product](sql_queries/screenshots/highest_profit_product.png)
+![loss_making_products](sql_queries/screenshots/loss_making_products.png)
+![profit_vs_discount_output](sql_queries/screenshots/profit_vs_discount_output.png)
+![region_sales_output](sql_queries/screenshots/region_sales_output.png)
+![Repeate_coustomers_output](sql_queries/screenshots/Repeate_coustomers_output.png)
+![total_sales_output](sql_queries/screenshots/total_sales_output.png)
+
 Python (Pandas, Matplotlib) – Data cleaning and EDA
 
 Power BI – Dashboard creation
