@@ -1,31 +1,33 @@
-Sales Analytics Capstone Project
-Project Overview
+## Sales Analytics Capstone Project
+## Project Overview
 
 This is an end-to-end Sales Analytics capstone project created as part of my Data Analytics course.
 The project focuses on analyzing sales performance, profit, and discount impact using SQL, Python, and Power BI.
 
-Business Problem
+## Business Problem
 
 The objective of this project is to analyze sales data to understand revenue and profit patterns.
 The analysis helps identify high-performing products, profitable regions, and areas where discounts negatively impact profit.
 
-Dataset Description
+## Dataset Description
 
 The dataset contains transactional sales data including order details, sales amount, profit, discount, product categories, and regional information.
 This data represents a typical retail sales scenario.
 
-Data Dictionary
-Column Name	Description
-Order ID	Unique identifier for each order
-Order Date	Date of transaction
-Ship Date	Date of shipment
-Sales	Revenue generated
-Profit	Profit earned
-Discount	Discount applied
-Category	Product category
-Sub-Category	Product sub-category
-Region	Sales region
-Tools Used
+## Data Dictionary
+
+Column Name	               Description
+Order ID	                 Unique identifier for each order
+Order Date	               Date of transaction
+Ship Date	                 Date of shipment
+Sales	                     Revenue generated
+Profit	                   Profit earned
+Discount	                 Discount applied
+Category	                 Product category
+Sub-Category	             Product sub-category
+Region	                   Sales region
+
+## Tools Used
 
 Excel – Initial data understanding
 
@@ -37,7 +39,7 @@ Power BI – Dashboard creation
 
 GitHub – Project documentation
 
-Analysis Steps
+## Analysis Steps
 
 Understood and cleaned the dataset
 
@@ -49,7 +51,7 @@ Created interactive dashboards in Power BI
 
 Derived insights and business recommendations
 
-Power BI Dashboard
+## Power BI Dashboard
 
 The Power BI dashboard provides:
 
@@ -73,7 +75,7 @@ Discount vs Profit analysis
 !(![sales_overview png](https://github.com/user-attachments/assets/05e09ab9-3cce-4408-8c4a-e50fb35bb044)
 )
 
-Key Insights
+## Key Insights
 
 Some regions generate high sales but low profit due to heavy discounts
 
@@ -81,7 +83,7 @@ Certain product categories contribute more to overall profit
 
 Monthly sales trends show seasonal patterns
 
-Business Recommendations
+## Business Recommendations
 
 Reduce high discounts on low-profit products
 
@@ -89,6 +91,7 @@ Focus on high-margin categories to improve profitability
 
 Use regional insights to optimize sales strategy
 
+## Project Structure
 Sales_Capstone_Project/
 │
 ├── Data/
