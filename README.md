@@ -34,13 +34,13 @@ Excel – Initial data understanding
 SQL – Data querying and KPI calculations
 
 ## SQL Analysis Output
-![Best-Selling-Products](sql_queries/screenshots/Best_Selling_Products.png)
-![highest-profit-product](sql_queries/screenshots/highest_profit_product.png)
-![loss_making_products](sql_queries/screenshots/loss_making_products.png)
-![profit_vs_discount_output](sql_queries/screenshots/profit_vs_discount_output.png)
-![region_sales_output](sql_queries/screenshots/region_sales_output.png)
-![Repeate_coustomers_output](sql_queries/screenshots/Repeate_coustomers_output.png)
-![total_sales_output](sql_queries/screenshots/total_sales_output.png)
+![Best_Selling_Products](Sales_Capstone_Project\sql_queries\screenshots\.keep\Best_Selling_Products.png.jpg)
+![highest_profit_product](Sales_Capstone_Project\sql_queries\screenshots\.keep\highest_profit_product.png.jpg)
+![loss_making_products](Sales_Capstone_Project\sql_queries\screenshots\.keep\loss_making_products.png.jpg)
+![profit_vs_discount_output](Sales_Capstone_Project\sql_queries\screenshots\.keep\profit_vs_discount_output.png.jpg)
+![region_sales_output](Sales_Capstone_Project\sql_queries\screenshots\.keep\region_sales_output.png.jpg)
+![Repeate_coustomers_output](Sales_Capstone_Project\sql_queries\screenshots\.keep\Repeate_coustomers_output.png.jpg)
+![total_sales_output](Sales_Capstone_Project\sql_queries\screenshots\.keep\total_sales_output.png.jpg)
 
 Python (Pandas, Matplotlib) – Data cleaning and EDA
 
