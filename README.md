@@ -35,12 +35,12 @@ SQL – Data querying and KPI calculations
 
 ## SQL Analysis Output
 ![Best_Selling_Products](Best_Selling_Products.png.jpg)
-![highest_profit_product](Sales_Capstone_Project\sql_queries\screenshots\.keep\highest_profit_product.png.jpg)
-![loss_making_products](Sales_Capstone_Project\sql_queries\screenshots\.keep\loss_making_products.png.jpg)
-![profit_vs_discount_output](Sales_Capstone_Project\sql_queries\screenshots\.keep\profit_vs_discount_output.png.jpg)
-![region_sales_output](Sales_Capstone_Project\sql_queries\screenshots\.keep\region_sales_output.png.jpg)
-![Repeate_coustomers_output](Sales_Capstone_Project\sql_queries\screenshots\.keep\Repeate_coustomers_output.png.jpg)
-![total_sales_output](Sales_Capstone_Project/sql_queries/screenshots/.keep/total_sales_output.jpg)
+![highest_profit_product](highest_profit_product.png.jpg)
+![loss_making_products](loss_making_products.png.jpg)
+![profit_vs_discount_output](profit_vs_discount_output.png.jpg)
+![region_sales_output](region_sales_output.png.jpg)
+![Repeate_coustomers_output](Repeate_coustomers_output.png.jpg)
+![total_sales_output](total_sales_output.png.jpg)
 
 Python (Pandas, Matplotlib) – Data cleaning and EDA
 
