@@ -34,7 +34,7 @@ Excel – Initial data understanding
 SQL – Data querying and KPI calculations
 
 ## SQL Analysis Output
-![Best_Selling_Products](Sales_Capstone_Project\sql_queries\screenshots\.keep\Best_Selling_Products.png.jpg)
+![Best_Selling_Products](Best_Selling_Products.png.jpg)
 ![highest_profit_product](Sales_Capstone_Project\sql_queries\screenshots\.keep\highest_profit_product.png.jpg)
 ![loss_making_products](Sales_Capstone_Project\sql_queries\screenshots\.keep\loss_making_products.png.jpg)
 ![profit_vs_discount_output](Sales_Capstone_Project\sql_queries\screenshots\.keep\profit_vs_discount_output.png.jpg)
