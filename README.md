@@ -92,21 +92,25 @@ Discount vs Profit analysis
 !(![sales_overview png](https://github.com/user-attachments/assets/05e09ab9-3cce-4408-8c4a-e50fb35bb044)
 )
 
-## Key Insights
+##  Key Insights
+- Some regions generate high sales but low profit due to heavy discounting.
+- Certain product categories contribute more to profit despite lower sales volume.
+- Monthly sales trends show seasonal patterns that impact overall revenue.
+- Higher discounts are associated with reduced profit margins.
 
-Some regions generate high sales but low profit due to heavy discounts
-
-Certain product categories contribute more to overall profit
-
-Monthly sales trends show seasonal patterns
 
 ## Business Recommendations
+- Limit high discounts on low-margin products to improve profitability.
+- Focus marketing and inventory efforts on high-profit categories.
+- Use seasonal sales trends to plan promotions and inventory in advance.
+- Monitor regional performance to optimize pricing and discount strategies.
 
-Reduce high discounts on low-profit products
+  ## Learning Outcomes
+- Gained hands-on experience in the complete data analytics workflow.
+- Improved skills in SQL querying, Python EDA, and Power BI visualization.
+- Learned how to document and present data insights effectively using GitHub.
 
-Focus on high-margin categories to improve profitability
 
-Use regional insights to optimize sales strategy
 
 ## Project Structure
 Sales_Capstone_Project/
