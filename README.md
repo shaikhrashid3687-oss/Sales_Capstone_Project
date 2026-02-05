@@ -46,10 +46,10 @@ SQL – Data querying and KPI calculations
 ## Python (Pandas, Matplotlib) – Data cleaning and EDA
 
 ## Exploratory Data Analysis (Python)
-![profit_trend](Sales_Capstone_Project\python_notebook\screenshots\profit_trend.jpg)
-![Sales_by_Region](Sales_Capstone_Project\python_notebook\screenshots\Sales_by_Region.jpg)
-![Sales Trend]([Sales_Capstone_Project\python_notebook\screenshots\sales_trend.jpg](https://github.com/shaikhrashid3687-oss/Sales_Capstone_Project/blob/main/sales_trend.png.jpg?raw=true))
-![Profit_by_Category](Sales_Capstone_Project\python_notebook\screenshots\Profit_by_Category.jpg)
+![profit_trend](profit_trend.png.jpg)
+![Sales_by_Region](Sales_by_Region.jpg)
+![Sales Trend]([sales_trend.png.jpg)
+![Profit_by_Category](Profit_by_Category.jpg)
 ![Discount_vs_Profit](Discount_vs_Profit.jpg)
 
 Power BI – Dashboard creation
