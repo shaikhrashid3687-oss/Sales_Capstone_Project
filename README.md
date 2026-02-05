@@ -44,6 +44,11 @@ SQL – Data querying and KPI calculations
 
 Python (Pandas, Matplotlib) – Data cleaning and EDA
 
+## 🐍 Exploratory Data Analysis (Python)
+![sales_trend.png](https://github.com/user-attachments/assets/90c85f1c-dcd5-4258-a7a0-84a2d2ea4f41" />)
+![Profit by Category](python_notebook/screenshots/profit_by_category.png)
+![Monthly Sales Trend](python_notebook/screenshots/monthly_sales_trend.png)
+
 Power BI – Dashboard creation
 
 GitHub – Project documentation
