@@ -50,7 +50,7 @@ SQL – Data querying and KPI calculations
 ![Sales_by_Region](Sales_Capstone_Project\python_notebook\screenshots\Sales_by_Region.jpg)
 ![Sales Trend]([Sales_Capstone_Project\python_notebook\screenshots\sales_trend.jpg](https://github.com/shaikhrashid3687-oss/Sales_Capstone_Project/blob/main/sales_trend.png.jpg?raw=true))
 ![Profit_by_Category](Sales_Capstone_Project\python_notebook\screenshots\Profit_by_Category.jpg)
-![Discount_vs_Profit](Sales_Capstone_Project/blob/c4d065b9e2f1043e4233ed20c1cdace81b1d0782/Discount_vs_Profit.jpg)
+![Discount_vs_Profit](Discount_vs_Profit.jpg)
 
 Power BI – Dashboard creation
 
