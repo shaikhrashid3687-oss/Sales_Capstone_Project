@@ -42,12 +42,13 @@ SQL – Data querying and KPI calculations
 ![Repeate_coustomers_output](Repeate_coustomers_output.png.jpg)
 ![total_sales_output](total_sales_output.png.jpg)
 
-Python (Pandas, Matplotlib) – Data cleaning and EDA
+
+## Python (Pandas, Matplotlib) – Data cleaning and EDA
 
 ## Exploratory Data Analysis (Python)
 ![profit_trend](Sales_Capstone_Project\python_notebook\screenshots\profit_trend.jpg)
 ![Sales_by_Region](Sales_Capstone_Project\python_notebook\screenshots\Sales_by_Region.jpg)
-![Sales Trend](Sales_Capstone_Project\python_notebook\screenshots\sales_trend.jpg)
+![Sales Trend]([Sales_Capstone_Project\python_notebook\screenshots\sales_trend.jpg](https://github.com/shaikhrashid3687-oss/Sales_Capstone_Project/blob/main/sales_trend.png.jpg?raw=true))
 ![Profit_by_Category](Sales_Capstone_Project\python_notebook\screenshots\Profit_by_Category.jpg)
 ![Discount_vs_Profit](Sales_Capstone_Project\python_notebook\screenshots\Discount_vs_Profit.jpg)
 
